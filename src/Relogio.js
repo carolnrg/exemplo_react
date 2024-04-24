@@ -1,6 +1,6 @@
 function Relogio() {
   return (
-    <div>Meu Relógio</div>
+    <div>Meu Relógio Lindo</div>
   );
 }
 export default Relogio;
